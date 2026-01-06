@@ -1,0 +1,23 @@
+Introduction to NumPy
+
+NumPy was created to make numerical computations in Python easier and more efficient. At its core is the ndarray (N-dimensional array), which allows users to store and manipulate large datasets. NumPy also supports broadcasting, vectorization, and advanced indexing, which reduce the need for explicit loops and make code shorter and faster.
+
+Uses of NumPy
+
+Numerical Computation – Used for mathematical operations such as addition, subtraction, multiplication, matrix operations, and linear algebra.
+
+Data Analysis – Acts as the foundation for libraries like Pandas, SciPy, and Matplotlib.
+
+Scientific Research – Widely used in physics, chemistry, engineering, and economics for simulations and modeling.
+
+Machine Learning & AI – Helps in handling datasets, feature extraction, and mathematical computations in ML algorithms.
+
+Image and Signal Processing – Used to manipulate image pixels and analyze signals efficiently.
+
+Statistics and Probability – Provides tools for mean, median, standard deviation, variance, and random number generation.
+
+Conclusion
+
+NumPy is an essential library for anyone working with numerical data in Python. Its speed, efficiency, and ease of use make it a core tool in data science, scientific computing, and machine learning.
+
+If you want, I can also give this in exam-oriented, short notes, or presentation slide format.
