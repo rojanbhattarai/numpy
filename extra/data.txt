@@ -1,0 +1,89 @@
+1. Structured Data
+
+Definition:
+Structured data is data that is organized in a fixed format (rows and columns).
+
+Characteristics:
+
+Fixed schema
+
+Easy to store in databases
+
+Easy to search and analyze
+
+Examples:
+
+Excel tables
+
+SQL database tables
+
+Student records (Roll No, Name, Marks)
+
+Example:
+
+ID	Name	Age
+1	Ram	20
+2	Sita	22
+2. Semi-Structured Data
+
+Definition:
+Semi-structured data is data that does not follow a table format but has tags or keys.
+
+Characteristics:
+
+No fixed rows/columns
+
+Uses key-value pairs or tags
+
+Flexible schema
+
+Examples:
+
+JSON files
+
+XML files
+
+HTML files
+
+Email data
+
+Example (JSON):
+
+{
+  "name": "Ram",
+  "age": 20,
+  "marks": 85
+}
+
+3. Unstructured Data
+
+Definition:
+Unstructured data is data that has no predefined format or structure.
+
+Characteristics:
+
+Not organized
+
+Hard to analyze directly
+
+Needs AI/ML or text processing
+
+Examples:
+
+Text documents
+
+Images
+
+Videos
+
+Audio files
+
+Social media posts
+
+Example:
+
+A photo (.jpg)
+
+A video (.mp4)
+
+A voice recording (.mp3)
